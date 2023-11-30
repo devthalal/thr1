@@ -1,0 +1,16 @@
+{
+  "name": "thr1",
+  "type": "package",
+  "blockId": "gxfoW6MZNN3afDCiR-IHz",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_thr1"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
